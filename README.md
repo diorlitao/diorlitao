@@ -2,10 +2,12 @@
 
 ## 前端工程师—Diorlitao
 
-热爱前端、热爱技术。工作经验7年。喜欢参与一些开源项目的讨论。
+技术涉及前端、后端、大数据、热爱技术。工作经验7年。喜欢参与一些开源项目的讨论。
 
 ### **技术栈:**
-
+<a href="https://www.java.com/zh-CN/"><code><img height="20" src="./images/java.png"></code></a>
+<a href="https://hadoop.apache.org/"><code><img height="20" src="./images/hadoop.jpg"></code></a>
+<a href="https://spark.apache.org/"><code><img height="20" src="./images/spark.png"></code></a>
 <a href="https://v3.cn.vuejs.org"><code><img height="20" src="./images/vue.png"></code></a>
 <a href="https://www.tslang.cn/index.html"><code><img height="20" src="./images/typescript.png"></code></a>
 <a href="https://cn.vitejs.dev"><code><img height="20" src="./images/vite.png"></code></a>
