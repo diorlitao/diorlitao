@@ -2,7 +2,7 @@
 
 ## 前端工程师—Diorlitao
 
-技术涉及前端、后端、大数据、热爱技术。工作经验7年。喜欢参与一些开源项目的讨论。
+我是Diorlitao，一个有趣有料有内涵的IT老男人。玩过前端，弄过Java，搞过大数据，撩过Node，干过产品。
 
 ### **技术栈:**
 <a href="https://www.java.com/zh-CN/"><code><img height="20" src="./images/java.png"></code></a>
