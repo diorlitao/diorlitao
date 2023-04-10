@@ -1,8 +1,8 @@
 <img align="right" src="https://count.getloli.com/get/@:diorlitao?theme=rule34">
 
-## 前端工程师—Diorlitao
+## 程序猿—Diorlitao
 
-我是Diorlitao，一个有趣有料有内涵的IT老男人。玩过前端，弄过Java，搞过大数据，撩过Node，干过产品。
+我是Diorlitao，一个普普通通的IT程序猿。
 
 ### **技术栈:**
 <a href="https://www.java.com/zh-CN/"><code><img height="20" src="./images/java.png"></code></a>
